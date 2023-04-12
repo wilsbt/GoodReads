@@ -1,3 +1,22 @@
+# The Project
+An app designed to to track and plan out how you read.  
+
+# How to Use
+Run
+
+```npm start```
+
+to open the website.
+
+# About the Code
+So far we there is the ability to add books to the list of ones you have read.
+
+In the future, it may be useful to link to databases.
+
+Testing would also be useful.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
